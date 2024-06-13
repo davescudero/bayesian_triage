@@ -1,2 +1,2 @@
 # bayesian_triage
-Modelo de inferencia causalo bayesiana
+Modelo de inferencia causal bayesiana
